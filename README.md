@@ -1,0 +1,2 @@
+# mag
+Un site généraliste
